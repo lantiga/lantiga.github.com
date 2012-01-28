@@ -12,9 +12,9 @@ Posts
 Tweets
 ======
 
-<div id="tweets">
+<p id="tweets">
 Loading...
-</div>
+</p>
 
 <script src="http://twitterjs.googlecode.com/svn/trunk/src/twitter.min.js"></script>
   
@@ -28,10 +28,10 @@ Loading...
   });
 </script>
 
-Projects
-========
+Code
+====
 
-* [vmtk](http://www.vmtk.org)
-* [cyitk](https://github.com/lantiga/cyitk)
-* [archTk](http://archtk.github.com)
+[vmtk](http://www.vmtk.org)
+[cyitk](https://github.com/lantiga/cyitk)
+[archTk](http://archtk.github.com)
 
