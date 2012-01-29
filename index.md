@@ -28,8 +28,8 @@ Loading...
   });
 </script>
 
-Code
-====
+Open source
+===========
 
 [vmtk](http://www.vmtk.org)
 [cyitk](https://github.com/lantiga/cyitk)
