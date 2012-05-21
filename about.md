@@ -20,8 +20,8 @@ Publications
 Journal papers
 --------------
 
-* Piccinelli M, Hoi Y, Tong F, Veneziani A, Steinman DA, Antiga L. Automatic neck plane detection and 3D geometric characterization of aneurysmal sacs. Accepted for publication on Annals of Biomedical Engineering.
-* Bijari PB, Antiga L, Gallo D, Wasserman BA, Steinman DA. Hemodynamically-inspired geometric variables for improved prediction of Disturbed flow at the normal carotid bifurcation. Accepted for publication on ASME J Biomech Eng.
+* Piccinelli M, Hoi Y, Tong F, Veneziani A, Steinman DA, Antiga L. Automatic neck plane detection and 3D geometric characterization of aneurysmal sacs. Annals of Biomedical Engineering, Epub ahead of print, Apr 25 2012.
+* Bijari PB, Antiga L, Gallo D, Wasserman BA, Steinman DA. Improved prediction of disturbed flow via hemodynamically-inspired geometric variables. Journal of Biomechanics, 45: 1632–1637, 2012.
 * Cattaneo I, Condorelli L, Terrinoni AR, Antiga L, Sangalli F, Remuzzi A. Shear stress reverses dome formation in confluent renal tubular cells. Cell Physiol Biochem, 28(4):673-82, 2011.
 * Passerini T, Sangalli LM, Vantini S, Piccinelli M, Bacigaluppi S, Antiga L, Boccardi E, Secchi, Veneziani A. An Integrated Statistical Investigation of Internal Carotid Arteries of Patients Affected by Cerebral Aneurysms. Accepted for publication on Cardiovascular Engineering and Technology.
 * Morbiducci U, Gallo D, Massai D, Ponzini R, Deriu MA, Antiga L, Redaelli A, Montevecchi FM. On the importance of blood rheology for bulk flow in hemodynamic models of the carotid bifurcation. Journal of Biomechanics, 44(13):2427-38, 2011.
