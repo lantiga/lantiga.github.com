@@ -21,6 +21,7 @@ Journal papers
 --------------
 
 * Faggiano E, Antiga L, Puppini G, Quarteroni A, Luciani GB, Vergara C. Helical flows and asymmetry of blood jet in dilated ascending aorta with normally functioning bicuspid valve. Accepted for publication on Biomechanics and Modeling in Mechanobiology.
+* Passera K, Manini S, Antiga L, Remuzzi A. Patient-specific model of arterial circulation for surgical planning of vascular access. Journal of Vascular Access, Epub ahead of print, Sep 7 2012.
 * Schneiders JJ, Marquering HA, Antiga L, van den Berg R, Vanbavel E, Majoie CB. Intracranial Aneurysm Neck Size Overestimation with 3D Rotational Angiography: The Impact on Intra-Aneurysmal Hemodynamics Simulated with Computational Fluid Dynamics. AJNR, Epub ahead of print, Aug 16 2012.
 * Piccinelli M, Hoi Y, Tong F, Veneziani A, Steinman DA, Antiga L. Automatic neck plane detection and 3D geometric characterization of aneurysmal sacs. Annals of Biomedical Engineering, Epub ahead of print, Apr 25 2012.
 * Bijari PB, Antiga L, Gallo D, Wasserman BA, Steinman DA. Improved prediction of disturbed flow via hemodynamically-inspired geometric variables. Journal of Biomechanics, 45: 1632–1637, 2012.
