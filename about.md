@@ -20,6 +20,7 @@ Publications
 Journal papers
 --------------
 
+* Manini S, Passera K, Huberts W, Botti L, Antiga L and Remuzzi A. Computational model for simulatino of vascular adaptation following vascular access surgery in hemodyalysis patients. Accepted for publication on Computer Methods in Biomechanics and Biomedical Engineering.
 * Faggiano E, Antiga L, Puppini G, Quarteroni A, Luciani GB, Vergara C. Helical flows and asymmetry of blood jet in dilated ascending aorta with normally functioning bicuspid valve. Accepted for publication on Biomechanics and Modeling in Mechanobiology.
 * Passera K, Manini S, Antiga L, Remuzzi A. Patient-specific model of arterial circulation for surgical planning of vascular access. Journal of Vascular Access, Epub ahead of print, Sep 7 2012.
 * Schneiders JJ, Marquering HA, Antiga L, van den Berg R, Vanbavel E, Majoie CB. Intracranial Aneurysm Neck Size Overestimation with 3D Rotational Angiography: The Impact on Intra-Aneurysmal Hemodynamics Simulated with Computational Fluid Dynamics. AJNR, Epub ahead of print, Aug 16 2012.
