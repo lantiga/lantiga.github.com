@@ -20,6 +20,7 @@ Publications
 Journal papers
 --------------
 
+* De Momi E, Caborni C, Cardinale F, Castana L, Casaceli G, Cossu M, Antiga L and Ferrigno G. Automatic trajectory planner for StereoElectroEncephaloGraphy procedures: a retrospective study. Accepted for publication on IEEE Transactions on Biomedical Engineering.
 * Manini S, Passera K, Huberts W, Botti L, Antiga L and Remuzzi A. Computational model for simulatino of vascular adaptation following vascular access surgery in hemodyalysis patients. Accepted for publication on Computer Methods in Biomechanics and Biomedical Engineering.
 * Faggiano E, Antiga L, Puppini G, Quarteroni A, Luciani GB, Vergara C. Helical flows and asymmetry of blood jet in dilated ascending aorta with normally functioning bicuspid valve. Accepted for publication on Biomechanics and Modeling in Mechanobiology.
 * Passera K, Manini S, Antiga L, Remuzzi A. Patient-specific model of arterial circulation for surgical planning of vascular access. Journal of Vascular Access, Epub ahead of print, Sep 7 2012.
