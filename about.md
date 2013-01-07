@@ -20,9 +20,9 @@ Publications
 Journal papers
 --------------
 
-* De Momi E, Caborni C, Cardinale F, Castana L, Casaceli G, Cossu M, Antiga L and Ferrigno G. Automatic trajectory planner for StereoElectroEncephaloGraphy procedures: a retrospective study. Accepted for publication on IEEE Transactions on Biomedical Engineering.
-* Manini S, Passera K, Huberts W, Botti L, Antiga L and Remuzzi A. Computational model for simulatino of vascular adaptation following vascular access surgery in hemodyalysis patients. Accepted for publication on Computer Methods in Biomechanics and Biomedical Engineering.
-* Faggiano E, Antiga L, Puppini G, Quarteroni A, Luciani GB, Vergara C. Helical flows and asymmetry of blood jet in dilated ascending aorta with normally functioning bicuspid valve. Accepted for publication on Biomechanics and Modeling in Mechanobiology.
+* De Momi E, Caborni C, Cardinale F, Castana L, Casaceli G, Cossu M, Antiga L and Ferrigno G. Automatic trajectory planner for StereoElectroEncephaloGraphy procedures: a retrospective study. IEEE Transactions on Biomedical Engineering, Epub ahead of print, Dec 4 2012.
+* Manini S, Passera K, Huberts W, Botti L, Antiga L and Remuzzi A. Computational model for simulation of vascular adaptation following vascular access surgery in hemodyalysis patients. Computer Methods in Biomechanics and Biomedical Engineering, Epub ahead of print, Jan 3 2013.
+* Faggiano E, Antiga L, Puppini G, Quarteroni A, Luciani GB, Vergara C. Helical flows and asymmetry of blood jet in dilated ascending aorta with normally functioning bicuspid valve. Biomechanics and Modeling in Mechanobiology, Epub ahead of print, Oct 5 2012.
 * Passera K, Manini S, Antiga L, Remuzzi A. Patient-specific model of arterial circulation for surgical planning of vascular access. Journal of Vascular Access, Epub ahead of print, Sep 7 2012.
 * Schneiders JJ, Marquering HA, Antiga L, van den Berg R, Vanbavel E, Majoie CB. Intracranial Aneurysm Neck Size Overestimation with 3D Rotational Angiography: The Impact on Intra-Aneurysmal Hemodynamics Simulated with Computational Fluid Dynamics. AJNR, Epub ahead of print, Aug 16 2012.
 * Piccinelli M, Hoi Y, Tong F, Veneziani A, Steinman DA, Antiga L. Automatic neck plane detection and 3D geometric characterization of aneurysmal sacs. Annals of Biomedical Engineering, Epub ahead of print, Apr 25 2012.
