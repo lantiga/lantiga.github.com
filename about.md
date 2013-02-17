@@ -8,9 +8,9 @@ Bio
 
 I'm basically a very lucky guy. A great family, a house, a cat and a fun job.
 
-I'm co-founder of [Orobix Srl](www.orobix.com), where I can nerd out at will and plan world domination. And most of all, keep learning and trying to make a sense of it all.
+I'm co-founder of [Orobix Srl](http://www.orobix.com), where I can nerd out at will and plan world domination. And most of all, keep learning and trying to make a sense of it all.
 
-In the past decade I got a PhD in Bioengineering in 2003 and worked in medical imaging and computational modeling research until 2009.
+In the past decade I got a PhD in Bioengineering in 2003 and worked in medical imaging and computational modeling research.
 
 I'm based in Bergamo, Italy. You can reach me at luca (dot) antiga (at) orobix (dot) com.
 
