@@ -6,7 +6,7 @@ title: About me
 Bio
 ===
 
-I'm basically a very lucky guy. A great family, a house, a cat and a fun job.
+I'm a lucky guy with a special family, a house, a cat and a fun job.
 
 I'm co-founder of [Orobix Srl](http://www.orobix.com), where I can nerd out at will and plan world domination. And most of all, keep learning and trying to make a sense of it all.
 
