@@ -11,7 +11,7 @@ Bio
 * Dec 2002 – Dec 2003: Post-Doctoral Fellow at Imaging Research Labs, Robarts Research Institute, London, Ontario, Canada.
 * Jan 2004 – Feb 2007: Researcher at Bioengineering Department, Mario Negri Institute, Bergamo, Italy.
 * Mar 2007 – Sep 2009: Head of Medical Imaging Unit, Mario Negri Institute, Bergamo, Italy.
-* Oct 2009 onwards: Cofounder and Principal Scientist at Orobix Srl.
+* Oct 2009 - today: Co-founder and Principal Scientist at Orobix Srl.
 
 
 Publications
@@ -77,8 +77,8 @@ Open access papers
 
 * Antiga L. Generalizing vesselness with respect to dimensionality and shape. The Insight Journal, 2007 July-December issue
 
-Conference papers (very incomplete)
------------------------------------
+Selected conf papers
+--------------------
 
 * Antiga L. Pre-processing: from Image to CFD model. ISMRM CV Flow Workshop 2009, Sintra, Portugal, September 2009.
 * Bijari PB, Antiga L, Steinman DA. Reliability of vascular geometry factors derived from clinical MRA. Proceeding of SPIE, Vol 7261, Orlando, FL, February 2009.
@@ -88,4 +88,3 @@ PhD thesis
 ----------
 
 * Antiga L. Patient-Specific Modeling of Geometry and Blood-Flow in Large Arteries
-

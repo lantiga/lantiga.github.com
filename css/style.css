@@ -1,0 +1,165 @@
+@import url('reset.css');
+
+body{
+    background: #111;
+    color: #fff;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 13px;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+.clr{
+    clear: both;
+}
+.stripe h1{
+    font-size: 24px;
+    position:fixed;
+    color: #fff;
+    font-weight: 400;
+    text-shadow: 0px 1px 3px rgba(0,0,0,0.8), 0px 0px 1px #fff;
+    padding: 20px 30px 30px 30px;
+    z-index:1000;
+    width: 100%;
+    text-align: center;
+}
+.stripe h1 span{
+    color: transparent;
+    text-shadow: 0px 0px 3px #fff;
+}
+.header{
+    font-family:'Arial Narrow', Arial, sans-serif;
+    line-height: 24px;
+    font-size: 11px;
+    background: #000;
+    opacity: 0.9;
+    text-transform: uppercase;
+    z-index: 9999;
+    position: fixed;
+    width: 100%;
+    -moz-box-shadow: 1px 0px 2px #000;
+    -webkit-box-shadow: 1px 0px 2px #000;
+    box-shadow: 1px 0px 2px #000;
+}
+.header a{
+    padding: 0px 10px;
+    letter-spacing: 1px;
+    color: #ddd;
+    display: block;
+    float: left;
+}
+.header a:hover{
+    color: #fff;
+}
+.header span.right{
+    float: right;
+}
+.header span.right a{
+    float: none;
+    display: inline;
+}
+.container{
+    top:0px;
+    position: absolute;
+    width: 100%;
+}
+.stripe{
+    top:24px;
+    height:80px;
+    position: absolute;
+}
+.footer{
+    height:80px;
+    position: relative;
+}
+.background{
+    position:fixed;
+    left:0px;
+    width:100%;
+    height:80px;
+    z-index:100;
+    background-image:url(../images/lantiga.jpg);
+    background-size:cover;
+    -moz-box-shadow: 0 10px 10px #000;
+    -webkit-box-shadow: 0 10px 10px #000;
+    box-shadow: 0 10px 10px #000;
+}
+.overlay {
+    width: 100%;
+    height: 80px;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    background: transparent url(../images/pattern.png) repeat top left;
+    z-index:10;
+}
+.toc {
+    width: 200px;
+    top: 150px;
+    left: 80%;
+    position: fixed;
+}
+.toc a {
+    display: block;
+}
+.toc_title {
+    font-size: 30px;
+}
+.toc_h2 {
+    margin-left: 5px;
+}
+.content{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 0px;
+    position: relative;
+    padding: 140px 30px 0px;
+    font-family: 'Titillium Web', sans-serif;
+    text-align: left;
+    color: #ccc;
+    line-height: 24px;
+    width:60%;
+}
+.content h1{
+    font-size: 80px;
+    line-height: 100px;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+.content h2{
+    font-size: 60px;
+    line-height: 90px;
+    margin-left: 0px;
+    padding-top: 0px;
+    padding-bottom: 15px;
+    padding-left: 0px;
+}
+.content h3{
+    font-size: 40px;
+    margin-left: 0px;
+    padding-top: 0px;
+    padding-left: 0px;
+}
+.content small{
+    font-size: 30px;
+    margin-left: 0px;
+    padding-left: 0px;
+}
+.content p, .content li{
+    font-size: 11pt;
+    margin-bottom: 10px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.content code{
+    background-color: #222;
+    padding: 6px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+.code{
+    background-color: #222;
+    padding: 6px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
