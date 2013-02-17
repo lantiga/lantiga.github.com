@@ -11,22 +11,3 @@ Posts
 {% else %}
   No posts so far
 {% endfor %}
-
-Tweets
-======
-
-<p id="tweets">
-Loading...
-</p>
-
-<script src="http://twitterjs.googlecode.com/svn/trunk/src/twitter.min.js"></script>
-
-<script type="text/javascript">
-  getTwitters('tweets', {
-    id: 'lantiga',
-    count: 5,
-    enableLinks: true,
-    clearContents: true,
-    template: '<span>%time%</span> %text%'
-  });
-</script>
