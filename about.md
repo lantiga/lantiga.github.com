@@ -6,13 +6,13 @@ title: About me
 Bio
 ===
 
-* Born Oct 3, 1975, in Desenzano del Garda, Italy.
-* Jan 2003: PhD in Bioengineering, Politecnico di Milano, Italy.
-* Dec 2002 – Dec 2003: Post-Doctoral Fellow at Imaging Research Labs, Robarts Research Institute, London, Ontario, Canada.
-* Jan 2004 – Feb 2007: Researcher at Bioengineering Department, Mario Negri Institute, Bergamo, Italy.
-* Mar 2007 – Sep 2009: Head of Medical Imaging Unit, Mario Negri Institute, Bergamo, Italy.
-* Oct 2009 - today: Co-founder and Principal Scientist at Orobix Srl.
+I'm basically a very lucky guy. A great family, a house, a cat and a fun job.
 
+I'm co-founder of [Orobix Srl](www.orobix.com), where I can nerd out at will and plan world domination. And most of all, keep learning and trying to make a sense of it all.
+
+In the past decade I got a PhD in Bioengineering in 2003 and worked in medical imaging and computational modeling research until 2009.
+
+I'm based in Bergamo, Italy. You can reach me at luca (dot) antiga (at) orobix (dot) com.
 
 Publications
 ============
