@@ -94,20 +94,27 @@ a{
     background: transparent url(../images/pattern.png) repeat top left;
     z-index:10;
 }
-.toc {
+#toc {
+    width: 200px;
+    top: 180px;
+    left: 80%;
+    position: fixed;
+}
+#toc a {
+    display: block;
+}
+#toc_title {
+    color: white;
     width: 200px;
     top: 150px;
     left: 80%;
     position: fixed;
-}
-.toc a {
-    display: block;
-}
-.toc_title {
     font-size: 30px;
-}
-.toc_h2 {
     margin-left: 5px;
+}
+#toc li {
+    margin-left: 5px;
+    margin-bottom: 0px;
 }
 .content{
     margin-left: 5%;
