@@ -94,4 +94,4 @@ Selected conf papers
 PhD thesis
 ----------
 
-* Antiga L. Patient-Specific Modeling of Geometry and Blood-Flow in Large Arteries
+* Antiga L. [Patient-Specific Modeling of Geometry and Blood-Flow in Large Arteries](/media/AntigaPhDThesis.pdf).
