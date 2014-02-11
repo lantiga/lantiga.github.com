@@ -1,3 +1,5 @@
+markdown: redcarpet
 pygments: true
-permalink: pretty
-markdown: kramdown
+
+title_tag_text: Luca Antiga
+h1_tag_text: Luca Antiga

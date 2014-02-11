@@ -1,31 +1,8 @@
----
-layout: default
-title: About me
----
 
-[{{page.title}}]()
-{: #toc_title}
 
-* TOC
-{: #toc}
-{:toc}
+##Publications
 
-Bio
-===
-
-I'm a lucky guy with a special family, a house, a cat and a fun job.
-
-I'm co-founder of [Orobix Srl](http://www.orobix.com), where I can nerd out at will and plan world domination. And most of all, keep learning and trying to make a sense of it all.
-
-In the past decade I got a PhD in Bioengineering in 2003 and worked in medical imaging and computational modeling research.
-
-I'm based in Bergamo, Italy. You can reach me at luca (dot) antiga (at) orobix (dot) com.
-
-Publications
-============
-
-Journal papers
---------------
+###Journal papers
 
 * Bacigaluppi S, Piccinelli M, Antiga L, Veneziani A, Passerini T, Rampini P, Zavanone M, Severi P, Tredici G, Zona G, Krings T, Boccardi E, Penco S, Fontanella M. Factors affecting formation and rupture of intracranial saccular aneurysms. Neurosurgical Reviews. Epub ahead of print, Dec 4, 2013. Cover.
 * Caroli A, Perico N, Perna A, Antiga L, Brambilla P, Pisani A, Visciano B, Imbriaco M, Messa P, Cerutti R, Dugo M, Cancian L, Buongiorno E, De Pascalis A, Gaspari F, Carrara F, Rubis N, Prandini S, Remuzzi A, Remuzzi G, Ruggenenti P. Effect of longacting somatostatin on kidney and cyst growth in autosomal dominant polycystic kidney disease (ALADIN): a randomised, placebo-controlled, multicentre trial. The Lancet, 382(9903):1485-95, 2013.
@@ -74,29 +51,35 @@ Journal papers
 * Antiga L, Ene-Iordache B, Caverni L, Cornalba GP and Remuzzi A. Geometric reconstruction for computational mesh generation of arterial bifurcations from CT angiography. Computerized Medical Imaging and Graphics, 26(4): 227-235, June 2002.
 * Antiga L, Ene-Iordache B, Remuzzi G and Remuzzi A. Automatic generation of glomerular capillary topological organization. Microvascular Research, 62: 346-354, June 2001.
 
-Letters
--------
+<br>
+
+###Letters
 
 * Steinman DA, Antiga A, Wasserman BA. Overestimation of cerebral aneurysm wall thickness by black blood MRI? Letter to the Editor. Journal of Magnetic Resonance Imaging 31:766, 2010.
 
-Book chapters
--------------
+<br>
+
+###Book chapters
 
 * Antiga L, Peiro’ J and Steinman D. From image data to computational domain. Chapter 4 in Quarteroni A, Formaggia L and Veneziani A (eds), Cardiovascular Mathematics, Springer NY, 2008.
 
-Open access papers
-------------------
+<br>
+
+###Open access papers
 
 * Antiga L. Generalizing vesselness with respect to dimensionality and shape. The Insight Journal, 2007 July-December issue
 
-Selected conf papers
---------------------
+<br>
+
+###Selected conf papers
 
 * Antiga L. Pre-processing: from Image to CFD model. ISMRM CV Flow Workshop 2009, Sintra, Portugal, September 2009.
 * Bijari PB, Antiga L, Steinman DA. Reliability of vascular geometry factors derived from clinical MRA. Proceeding of SPIE, Vol 7261, Orlando, FL, February 2009.
 * Antiga L. Bridging the gap between shape and flow. Fifth International Bio-Fluid Symposium and Workshop, Caltech, Pasadena, CA, March 2008.
 
-PhD thesis
-----------
+<br>
 
-* Antiga L. [Patient-Specific Modeling of Geometry and Blood-Flow in Large Arteries](/media/AntigaPhDThesis.pdf).
+###PhD thesis
+
+* Antiga L. [Patient-Specific Modeling of Geometry and Blood Flow in Large Arteries](/media/AntigaPhDThesis.pdf).
+
