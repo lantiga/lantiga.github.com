@@ -18,7 +18,7 @@ I'm located in Bergamo, Italy. You can reach me on [Twitter](https://twitter.com
   No posts so far
 {% endfor %}
 
-## Open source projects
+## Open source stuff
 
 * [vmtk](http://www.vmtk.org), the Vascular Modeling Toolkit (Python, C++)
 * [ki](https://github.com/lantiga/ki), a lisp that macroexpands to JavaScript (JavaScript, sweet.js)
