@@ -4,6 +4,7 @@
 
 ###Journal papers
 
+* De Momi E, Caborni C, Cardinale F, Casaceli G, Castana L, Cossu M, Mai R, Gozzo F, Francione S, Tassi L, Lo Russo G, Antiga L, Ferrigno G. **Multi-trajectories automatic planner for StereoElectroEncephaloGraphy (SEEG).** International Journal of Computer Assisted Radiology and Surgery. Epub ahead of print, Apr 20, 2014.
 * Botti L, Canneyt KV, Kaminsky R, Claessens T, Planken RN, Verdonck P, Remuzzi A, Antiga L. **Numerical evaluation and experimental validation of pressure drops across a patient-specific model of vascular access for hemodialysis.** Cardiovascular Engineering and Technology, 4(4): 485-499, 2013.
 * Bacigaluppi S, Piccinelli M, Antiga L, Veneziani A, Passerini T, Rampini P, Zavanone M, Severi P, Tredici G, Zona G, Krings T, Boccardi E, Penco S, Fontanella M. **Factors affecting formation and rupture of intracranial saccular aneurysms.** Neurosurgical Reviews. Epub ahead of print, Dec 4, 2013. Cover.
 * Caroli A, Perico N, Perna A, Antiga L, Brambilla P, Pisani A, Visciano B, Imbriaco M, Messa P, Cerutti R, Dugo M, Cancian L, Buongiorno E, De Pascalis A, Gaspari F, Carrara F, Rubis N, Prandini S, Remuzzi A, Remuzzi G, Ruggenenti P. **Effect of longacting somatostatin on kidney and cyst growth in autosomal dominant polycystic kidney disease (ALADIN): a randomised, placebo-controlled, multicentre trial.** The Lancet, 382(9903):1485-95, 2013.
