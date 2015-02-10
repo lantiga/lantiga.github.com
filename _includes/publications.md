@@ -4,6 +4,7 @@
 
 ###Journal papers
 
+* Manini S, Antiga L, Botti L, Remuzzi A. pyNS, an open-source framework for 0D/1D hemodynamic modelling. **Computational hemodynamics: Development of clinical tools for decision making, patient specific treatment and clinical management.** Annals of Biomedical Engineering, 2014.
 * De Momi E, Caborni C, Cardinale F, Casaceli G, Castana L, Cossu M, Mai R, Gozzo F, Francione S, Tassi L, Lo Russo G, Antiga L, Ferrigno G. **Multi-trajectories automatic planner for StereoElectroEncephaloGraphy (SEEG).** International Journal of Computer Assisted Radiology and Surgery. Epub ahead of print, Apr 20, 2014.
 * Botti L, Canneyt KV, Kaminsky R, Claessens T, Planken RN, Verdonck P, Remuzzi A, Antiga L. **Numerical evaluation and experimental validation of pressure drops across a patient-specific model of vascular access for hemodialysis.** Cardiovascular Engineering and Technology, 4(4): 485-499, 2013.
 * Bacigaluppi S, Piccinelli M, Antiga L, Veneziani A, Passerini T, Rampini P, Zavanone M, Severi P, Tredici G, Zona G, Krings T, Boccardi E, Penco S, Fontanella M. **Factors affecting formation and rupture of intracranial saccular aneurysms.** Neurosurgical Reviews. Epub ahead of print, Dec 4, 2013. Cover.
