@@ -3,7 +3,7 @@
 
 <br/>
 
-I'm a co-founder at [Orobix](http://www.orobix.com), a small company dealing with image analysis, mathematical modeling and data engineering. 
+I'm CEO at [Orobix](http://www.orobix.com), a company engineering systems based on artificial intelligence. 
 
 I have a PhD in Bioengineering and worked in research until 2009. Here's my list of [publications](/publications.html).
 
