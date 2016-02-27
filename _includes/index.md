@@ -3,43 +3,17 @@
 
 <br/>
 
-I'm CEO at [Orobix](http://www.orobix.com), a company engineering systems based on artificial intelligence. 
-
-I have a PhD in Bioengineering and worked in research until 2009. Here's my list of [publications](/publications.html).
+I'm CEO at [Orobix](http://www.orobix.com), where we are busy taking artificial intelligence into the real world.
 
 I'm located in Bergamo, Italy. You can reach me on [Twitter](https://twitter.com/lantiga) or on [GitHub](https://github.com/lantiga).
 
+## Stuff
 
-## Posts
+I have a PhD in Bioengineering and worked in research until 2009. Here's my list of [publications](/publications.html).
 
-{% for post in site.posts %}
-  * <span>{{ post.date | date_to_string }}</span> [ {{ post.title }} ]( {{ post.url }} )
-{% else %}
-  No posts so far
-{% endfor %}
+Over the years I have developed [vmtk](http://www.vmtk.org), a toolkit for modeling blood vessels from medical images, and contributed a few algorithms to [ITK](http://www.itk.org) and [3DSlicer](http://www.slicer.org).
 
-## Open source stuff
-
-* [vmtk](http://www.vmtk.org), the Vascular Modeling Toolkit (Python, C++)
-* [ki](https://github.com/lantiga/ki), a lisp that macroexpands to JavaScript (JavaScript, sweet.js)
-* [react.hiccup](https://github.com/lantiga/ki), an alternative to JSX for React.js (JavaScript, sweet.js)
-* [exoref](https://github.com/lantiga/exoref), Clojure reference types on top of Redis (Clojure)
-* [clj-toml](https://github.com/lantiga/clj-toml), a TOML parser for Clojure (Clojure)
-
-### At Orobix
-
-* [ranger](https://github.com/orobix/ranger), a tool for launching jobs on large datasets (Go)
-* [Balsa](https://github.com/orobix/Balsa), a random decision forest library (C++11)
-* [hirop](https://github.com/orobix/hirop), a library for building data collection applications (Clojure)
-* [Bunjee](https://github.com/orobix/Bunjee), a Cocoa framework for building medical imaging and visualization applications (ObjectiveC)
-
-### Contributed to
-
-* [Crane](https://github.com/SnowRipple/Crane), a tool for orchestrating Docker containers (Go)
-* [pyNS](https://github.com/archTk/pyNS), a 0D/1D solver for hemodynamic simulations (Python)
-* [Slicer](http://slicer.org), a multi-platform software for visualization and medical image computing (C++ and Python)
-* [ITK](http://itk.org), the Insight Segmentation and Registration Toolkit (C++)
-
+My latest interests revolve around deep learning, using A.I. to challenge the status quo of about anything and functional programming.
 
 ## Colophon
 
