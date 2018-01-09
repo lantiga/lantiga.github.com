@@ -3,7 +3,7 @@
 ##Publications
 
 ###Journal papers
-
+* Paszke A, Gross S, Chintala S, Chanan G, Yang E, DeVito Z, Lin Z, Desmaison A, Antiga L, Lerer A. **Automatic differentiation in PyTorch.** NIPS 2017.
 * Ruggenenti P, Gentile G, Perico N, Perna A, Barcella L, Trillini M, Cortinovis M, Ferrer Siles CP, Reyes Loaeza JA, Aparicio MC, Fasolini G, Gaspari F, Martinetti D, Carrara F, Rubis N, Prandini S, Caroli A, Sharma K, Antiga L, Remuzzi A, Remuzzi G, and on behalf of the SIRENA 2 Study Group. **Effect of Sirolimus on Disease Progression in Patients with Autosomal Dominant Polycystic Kidney Disease and CKD Stages 3b-4** CJASN, Epub ahead of print Feb 2016.
 * Xiang J, Antiga L, Varble N, Snyder KV, Levy EI, Siddiqui AH, Meng H. **AView: An Image-based Clinical Computational Tool for Intracranial Aneurysm Flow Visualization and Clinical Management.** Annals of Biomedical Engineering, June 2015.
 * Manini S, Antiga L, Botti L, Remuzzi A. **pyNS, an open-source framework for 0D/1D hemodynamic modelling.** Annals of Biomedical Engineering, 43(6): 1461-1473, 2015.
