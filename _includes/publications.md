@@ -1,8 +1,8 @@
 
 
-##Publications
+## Publications
 
-###Journal papers
+### Journal papers
 * Jacquemont M, Antiga L, Vuillaume T, Silvestri G, Benoit A, Lambert P, Maurin G. **Indexed Operations for Non-rectangular Lattices Applied to Convolutional Neural Networks** VISAPP19.
 * Silvestri G, Antiga L. **Stereology as Weak Supervision for Medical Image Segmentation** MIDL 2018.
 * Paszke A, Gross S, Chintala S, Chanan G, Yang E, DeVito Z, Lin Z, Desmaison A, Antiga L, Lerer A. **Automatic differentiation in PyTorch.** NIPS 2017.
@@ -61,25 +61,25 @@
 
 <br>
 
-###Letters
+### Letters
 
 * Steinman DA, Antiga A, Wasserman BA. **Overestimation of cerebral aneurysm wall thickness by black blood MRI?** Letter to the Editor. Journal of Magnetic Resonance Imaging 31:766, 2010.
 
 <br>
 
-###Book chapters
+### Book chapters
 
 * Antiga L, Peiró J and Steinman D. **From image data to computational domain.** Chapter 4 in Quarteroni A, Formaggia L and Veneziani A (eds), Cardiovascular Mathematics, Springer NY, 2008.
 
 <br>
 
-###Open access papers
+### Open access papers
 
 * Antiga L. **Generalizing vesselness with respect to dimensionality and shape.** The Insight Journal, 2007 July-December issue
 
 <br>
 
-###Selected conf papers
+### Selected conf papers
 
 * Antiga L. **Pre-processing: from Image to CFD model.** ISMRM CV Flow Workshop 2009, Sintra, Portugal, September 2009.
 * Bijari PB, Antiga L, Steinman DA. **Reliability of vascular geometry factors derived from clinical MRA.** Proceeding of SPIE, Vol 7261, Orlando, FL, February 2009.
@@ -87,7 +87,7 @@
 
 <br>
 
-###PhD thesis
+### PhD thesis
 
 * Antiga L. [Patient-Specific Modeling of Geometry and Blood Flow in Large Arteries](/media/AntigaPhDThesis.pdf).
 
