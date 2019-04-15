@@ -3,6 +3,7 @@
 ##Publications
 
 ###Journal papers
+* Jacquemont M, Antiga L, Vuillaume T, Silvestri G, Benoit A, Lambert P, Maurin G. **Indexed Operations for Non-rectangular Lattices Applied to Convolutional Neural Networks** VISAPP19.
 * Silvestri G, Antiga L. **Stereology as Weak Supervision for Medical Image Segmentation** MIDL 2018.
 * Paszke A, Gross S, Chintala S, Chanan G, Yang E, DeVito Z, Lin Z, Desmaison A, Antiga L, Lerer A. **Automatic differentiation in PyTorch.** NIPS 2017.
 * Ruggenenti P, Gentile G, Perico N, Perna A, Barcella L, Trillini M, Cortinovis M, Ferrer Siles CP, Reyes Loaeza JA, Aparicio MC, Fasolini G, Gaspari F, Martinetti D, Carrara F, Rubis N, Prandini S, Caroli A, Sharma K, Antiga L, Remuzzi A, Remuzzi G, and on behalf of the SIRENA 2 Study Group. **Effect of Sirolimus on Disease Progression in Patients with Autosomal Dominant Polycystic Kidney Disease and CKD Stages 3b-4** CJASN, Epub ahead of print Feb 2016.
