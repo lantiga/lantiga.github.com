@@ -3,6 +3,7 @@
 ## Publications
 
 ### Journal papers
+* Vuillaume T, Jacquemont M, Antiga L, Benoit A, Lambert P, Maurin G, Silvestri G, and the CTA Consortium **GammaLearn - first steps to apply Deep Learning to the Cherenkov Telescope Array data** EPJ Web of Conferences 214, 06020 (2019).
 * Jacquemont M, Antiga L, Vuillaume T, Silvestri G, Benoit A, Lambert P, Maurin G. **Indexed Operations for Non-rectangular Lattices Applied to Convolutional Neural Networks** VISAPP19.
 * Silvestri G, Antiga L. **Stereology as Weak Supervision for Medical Image Segmentation** MIDL 2018.
 * Paszke A, Gross S, Chintala S, Chanan G, Yang E, DeVito Z, Lin Z, Desmaison A, Antiga L, Lerer A. **Automatic differentiation in PyTorch.** NIPS 2017.
